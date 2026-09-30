@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+.next/
+out/
+.data/
+.env*
+!.env.example
+.superpowers/
+coverage/
+npm-debug.log*
